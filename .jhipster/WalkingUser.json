@@ -1,0 +1,20 @@
+{
+  "changelogDate": "20230920084917",
+  "entityTableName": "walking_user",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "step",
+      "fieldType": "Long"
+    }
+  ],
+  "name": "WalkingUser",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}
